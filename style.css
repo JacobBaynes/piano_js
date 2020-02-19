@@ -1,0 +1,16 @@
+/* #keyboard {
+    display: inline;
+    position: relative;
+
+} */
+
+.white.key {
+    background: white;
+    border: 1px solid black;
+}
+
+.black.key {
+    background: black;
+    color: white;
+    
+}
